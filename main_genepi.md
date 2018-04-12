@@ -54,7 +54,8 @@ Phylogenomics:
 
 Genome-based Multilocus Sequence Typing:  
 [MLST in the genomic era](https://www.ncbi.nlm.nih.gov/pubmed/24957089)  
-[Whole Genome MLST](https://www.ncbi.nlm.nih.gov/pubmed/24704917)  
+[Whole Genome MLST](https://www.ncbi.nlm.nih.gov/pubmed/24704917)
+[MentaLiST](https://www.ncbi.nlm.nih.gov/pubmed/29319471)
 
 Phylogeography readings:  
 [Ebola phylogeo analysis](https://www.nature.com/nature/journal/vaop/ncurrent/full/nature22040.html)  
